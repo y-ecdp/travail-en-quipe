@@ -7,8 +7,10 @@ projet pour collaborer en équipe keyce B1 CDP
 - Ajout de la fonctionnalité Y
 >>>>>>> fonctionnalite-y
 
+<<<<<<< HEAD
 # Mon Projet
 - Ajout de la fonctionnalité X
-# Mon Projet
 - Ajout de la fonctionnalité Y 
 
+=======
+>>>>>>> fonctionnalite-x
